@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ISUnityAdsAdapter",
-            url: "https://github.com/portolans/unityads-ironsourceadapter-releases/releases/download/5.12.0/ISUnityAdsAdapter.xcframework.zip",
-            checksum: "390a3a0d7c4062a19ad7e43ebfdb0e4e653bc145855a5682b33ba07db381eb99",
+            url: "https://github.com/portolans/unityads-ironsourceadapter-releases/releases/download/5.13.0/ISUnityAdsAdapter.xcframework.zip",
+            checksum: "d07d269225e65588913a293011aaf56c3bc9f8e6fccf9f2d310144fa50266756",
         ),
     ],
 )
